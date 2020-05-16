@@ -30,9 +30,5 @@ menu:
       - name: Twitter
         icon: twitter
         link: https://twitter.com/kamranafzali
-    - name: Instagram
-        icon: Instagram
-        link: https://instagram.com/kamranafzali
-        - name: telegram
-        icon: telegram
-        link: https://telegram.com/kamranafzali
+  
+     
