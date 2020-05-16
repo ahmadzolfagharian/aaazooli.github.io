@@ -17,7 +17,7 @@ title: test blog
 description: 
   TEXT TEXT TEXT.This is a blog of someone passionate about technology who wants to share some of the things he knows
   about Application Development, Integration, Cloud, Big Data and Digital Transformation
-baseurl: "http://aaazooli.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "https://ahmadzolfagharian.github.io/aaazooli.github.io/" # the subpath of your site, e.g. /blog
 github_username:  ahmadzolfagharian
 
 # jekyll-paginate configuration
